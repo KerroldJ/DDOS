@@ -2189,7 +2189,7 @@ def infoattack():
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"L4            "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)                         "+Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"KerroldJ      "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" White Hat ONE                           "+Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╠═════════════════════════════════════════════════════╣     												             \n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝													             \n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝													               \n")
     stdout.write("\n")
 ##############################################################################################
 def credit():
@@ -2241,20 +2241,18 @@ def tools():
 def title():
     clear()
     stdout.write("                                                              												\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗     ████████████    ████████████     ███████████████      ███              ███████████████		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██╔═══════╝     ██        ██    ██        ██     ██ 	   ██      ███		    ████	   ██		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██║             ██        ██    ██        ██     ██	   ██	   ███		    ████	   ██		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ███████         ████████████    ████████████     ██	   ██	   ███		    ████	   ██		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██              ██      ██      ██      ██       ██	   ██ 	   ███		    ████	   ██		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗     ██       ██     ██       ██      ██	   ██	   ███		    ████	   ██		\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████║     ██        ██    ██        ██     ███████████████	   ████████████     ███████████████		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗ ████████████ ████████████ ███████████████  ███         ███████████████		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██╔═══════╝ ██        ██ ██        ██ ██ 	        ██  ███		 ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ███████     ████████████ ████████████ ██	        ██  ███		 ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██          ██      ██   ██      ██   ██	        ██  ███		 ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗ ██        ██ ██        ██ ███████████████ ████████████ ███████████████		\n")
     stdout.write("                    "+Fore.LIGHTRED_EX   +" ╚═════════╝                       										\n")
 	
-    stdout.write("                    "+Fore.LIGHTRED_EX+"        			══╦═════════════════════════════════╦══\n")	
-    stdout.write("                    "+Fore.LIGHTRED_EX+"			╔═════════╩═════════════════════════════════╩═════════╗			       \n")
-    stdout.write("                    "+Fore.LIGHTRED_EX+"			║ "+Fore.LIGHTWHITE_EX+"    Copyright : White Hat ONE" +Fore.LIGHTRED_EX  +"  ║\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX+"			║ "+Fore.LIGHTWHITE_EX+"    COMMAND   : 'help'       " +Fore.LIGHTRED_EX  +"  ║\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX+"			╚═════════════════════════════════════════════════════╝			       \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX+"        	    ══╦═════════════════════════════════╦══\n")	
+    stdout.write("                    "+Fore.LIGHTRED_EX+"    ╔═══════════════╩═════════════════════════════════╩═════════════════════╗			        \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX+"    ║ "+Fore.LIGHTWHITE_EX+"Copyright : White Hat ONE" +Fore.LIGHTRED_EX  +"║				\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX+"    ║ "+Fore.LIGHTWHITE_EX+"COMMAND   : 'help'       " +Fore.LIGHTRED_EX  +"║				\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX+"    ╚═══════════════════════════════════════════════════════════════════════╝			        \n")
     stdout.write("\n")
 ##############################################################################################
 def command():
