@@ -2177,8 +2177,8 @@ def help():
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"L4        "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)"+Fore.LIGHTRED_EX+"                       ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" KerroldJ"+Fore.LIGHTRED_EX+"                              ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"TOOL      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Tool                                  "+Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"TAKENOTE:     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" For Educational Purposes Only      "+Fore.LIGHTRED_EX+" ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"KerroldJ      "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" White Hat ONE                              "+Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"TAKENOTE:     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" For Educational Purposes Only    "+Fore.LIGHTRED_EX+" ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"KerroldJ      "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" White Hat ONE                       "+Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
@@ -2241,27 +2241,10 @@ def tools():
 ##############################################################################################
 def title():
     clear()
-    print(""" 
-
-
-
-                      .sSSSSs.    .sSSSSs.    .sSSSSs.    
-                    SSSSSSSSSs. SSSSSSSSSs. SSSSSSSSSs. 
-                    S SSS SSSSS S SSS SSSSS S SSS SSSSS 
-                    S  SS SSSSS S  SS SSSS' S  SS SSSSS 
-                    S..SS SSSSS S..SS       S..SSsSSSSS 
-                    S:::SsSSSSS S:::S SSSSS S:::S SSSSS 
-                    S;;;S       S;;;S SSSSS S;;;S SSSSS 
-                    S%%%S       S%%%S SSSSS S%%%S SSSSS 
-                    SSSSS       SSSSSsSSSSS SSSSS SSSSS 
-                                                        VERSION 1.4 """)                                                                                                                                                                                                                                                                      
-    stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
+	
     stdout.write("             "+Fore.LIGHTRED_EX+"╔═════════╩═════════════════════════════════╩═══════════════════════════╗\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    FB Page : https://www.facebook.com/profile.php?id=100087374997017"+Fore.LIGHTRED_EX  +" ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Copyright : Philippine Cyber Alliance   "+Fore.LIGHTRED_EX  +"                          ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Contact   : 09212121212  "+Fore.LIGHTRED_EX  +"                                         ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    COMMAND   : 'help'       "+Fore.LIGHTRED_EX  +"                                         ║\n")
-
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Copyright : White Hat ONE   "+Fore.LIGHTRED_EX  +"                          ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    COMMAND   : 'help'       "+Fore.LIGHTRED_EX  +"                             ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"╚═══════════════════════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
