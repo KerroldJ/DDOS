@@ -2210,13 +2210,13 @@ def layer7():
     stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗ ██        ██ ██        ██ ███████████████ ████████████ ███████████████		\n")
     stdout.write("                    "+Fore.LIGHTRED_EX   +" ╚═════════╝                       										\n")
     
-    stdout.write("             "+Fore.LIGHTRED_EX            +"╦═══════════════════════════════════════════╦														     \n")    
+    stdout.write("             "+Fore.LIGHTRED_EX            +"╦════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╦														     \n")    
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"1 : HTTPS Flood and bypass for CF NoSec, DDoS Guard Free and vShield with sock5 "+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS     (VIP)              "+Fore.LIGHTRED_EX+"║\n")     
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"2 : (Unavailable)"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS    (Basic)             "+Fore.LIGHTRED_EX+"║\n")                    
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"3 : Proxy Socket attack"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS    (Basic)             "+Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"4 : Bypass CF attack"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS    (BASIC)             "+Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"5 : Proxy Slowloris attack"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS     (VIP)              "+Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"╚═══════════════════════════════════════════╝														     \n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"2 : (Unavailable)"+Fore.LIGHTRED_EX+"                                                                    |"+Fore.LIGHTWHITE_EX+" DDoS    (Basic)             "+Fore.LIGHTRED_EX+"║\n")                    
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"3 : Proxy Socket attack"+Fore.LIGHTRED_EX+"                                                              |"+Fore.LIGHTWHITE_EX+" DDoS    (Basic)             "+Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"4 : Bypass CF attack"+Fore.LIGHTRED_EX+"                                                                 |"+Fore.LIGHTWHITE_EX+" DDoS    (BASIC)             "+Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"5 : Proxy Slowloris attack"+Fore.LIGHTRED_EX+"                                                           |"+Fore.LIGHTWHITE_EX+" DDoS     (VIP)              "+Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝														     \n")
     stdout.write("\n")
 ##############################################################################################
 def layer4():
