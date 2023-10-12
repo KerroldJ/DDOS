@@ -2232,9 +2232,9 @@ def tools():
    
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╔═════════╩═════════════════════════════════╩═════════╗														    \n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"geoip "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Geo IP Address Lookup               "     +Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"dns   "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Classic DNS Lookup                  "     +Fore.LIGHTRED_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"subnet"+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Subnet IP Address Lookup            "  +Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"geoip "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Geo IP Address Lookup                           "     +Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"dns   "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Classic DNS Lookup                              "     +Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"subnet"+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" Subnet IP Address Lookup                        "  +Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝    													    \n") 
     stdout.write("\n")
 ##############################################################################################
