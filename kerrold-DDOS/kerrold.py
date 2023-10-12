@@ -2202,6 +2202,13 @@ def credit():
 ##############################################################################################
 def layer7():
     clear()
+    stdout.write("\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗ ████████████ ████████████ ███████████████  ███         ███████████████		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██╔═══════╝ ██        ██ ██        ██ ██ 	        ██  ███          ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ███████     ████████████ ████████████ ██	        ██  ███          ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██          ██      ██   ██      ██   ██	        ██  ███          ████	       ██		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ██████████╗ ██        ██ ██        ██ ███████████████ ████████████ ███████████████		\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +" ╚═════════╝                       										\n")
     
     stdout.write("             "+Fore.LIGHTRED_EX            +"╦═══════════════════════════════════════════╦														     \n")    
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"1 (Available)"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS     (VIP)              "+Fore.LIGHTRED_EX+"║\n")     
@@ -2214,9 +2221,16 @@ def layer7():
 ##############################################################################################
 def layer4():
     clear()
-
+    stdout.write("\n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ███║         ║███	    ███║      \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ███║         ║███	    ███║	  \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ███║	     ║██████████████	  \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ███║         ╚═════════ ███║	  \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ██████████╗           ║ ███║      \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"               ╚═════════╝           ╚════╝      \n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╔═════════╩═════════════════════════════════╩═════════╗													      \n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"KerroldL4   "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)                    "+Fore.LIGHTRED_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"KerroldL4   "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)                     "+Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝													      \n") 
     stdout.write("\n")
 ##############################################################################################
