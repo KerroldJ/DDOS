@@ -2222,8 +2222,8 @@ def layer7():
 def layer4():
     clear()
     stdout.write("\n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ║███	    ███║      \n")
-    stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ║███	    ███║	  \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ║███	     ███║      \n")
+    stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ║███	     ███║	  \n")
     stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ║██████████████	  \n")
     stdout.write("                    "+Fore.LIGHTRED_EX   +"        ███║           ╚═════════ ███║	  \n")
     stdout.write("                    "+Fore.LIGHTRED_EX   +"        ██████████╗             ║ ███║      \n")
